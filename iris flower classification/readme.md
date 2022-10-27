@@ -1,25 +1,25 @@
-# iris-flower-classification-python
+# letsgrowmore-data-science
 
 iris flower classification data analytics || machine learning
 
 <div align="center">
 
-<a href="https://github.com/ritwikdalmia/iris-flower-classification-python/pulls"><img src="https://img.shields.io/github/issues-pr/ritwikdalmia/iris-flower-classification-python" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/ritwikdalmia/iris-flower-classification-python/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/ritwikdalmia/iris-flower-classification-python?color=2b9348&style=flat&logo=github"></a>
-<a href="https://github.com/ritwikdalmia/iris-flower-classification-python/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ritwikdalmia/iris-flower-classification-python?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/ritwikdalmia/letsgrowmore-data-science/pulls"><img src="https://img.shields.io/github/issues-pr/ritwikdalmia/letsgrowmore-data-science" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/ritwikdalmia/letsgrowmore-data-science/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/ritwikdalmia/letsgrowmore-data-science?color=2b9348&style=flat&logo=github"></a>
+<a href="https://github.com/ritwikdalmia/letsgrowmore-data-science/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ritwikdalmia/letsgrowmore-data-science?color=2b9348" alt="License Badge"/></a>
 
 </div>
 
 <div align="center" markdown="1">
 
-[![GitHub repo forks](https://img.shields.io/github/forks/ritwikdalmia/iris-flower-classification-python?style=flat&logo=github&logoColor=whitesmoke&label=Forks)](https://github.com/ritwikdalmia/iris-flower-classification-python/network)&#160;
-[![GitHub repo stars](https://img.shields.io/github/stars/ritwikdalmia/iris-flower-classification-python?style=flat&logo=github&logoColor=whitesmoke&label=Stars)](https://github.com/ritwikdalmia/iris-flower-classification-python/stargazers)&#160;
+[![GitHub repo forks](https://img.shields.io/github/forks/ritwikdalmia/letsgrowmore-data-science?style=flat&logo=github&logoColor=whitesmoke&label=Forks)](https://github.com/ritwikdalmia/letsgrowmore-data-science/network)&#160;
+[![GitHub repo stars](https://img.shields.io/github/stars/ritwikdalmia/letsgrowmore-data-science?style=flat&logo=github&logoColor=whitesmoke&label=Stars)](https://github.com/ritwikdalmia/letsgrowmore-data-science/stargazers)&#160;
 [![GitHub org sponsors](https://img.shields.io/github/sponsors/ritwikdalmia?style=flat&logo=github&logoColor=whitesmoke&label=Sponsors)](https://github.com/sponsors/ritwikdalmia)&#160;
-[![GitHub repo watchers](https://img.shields.io/github/watchers/ritwikdalmia/iris-flower-classification-python?style=flat&logo=github&logoColor=whitesmoke&label=Watchers)](https://github.com/ritwikdalmia/iris-flower-classification-python/watchers)&#160;
-[![GitHub repo size](https://img.shields.io/github/repo-size/ritwikdalmia/iris-flower-classification-python?style=flat&logo=github&logoColor=whitesmoke&label=Repo%20Size)](https://github.com/ritwikdalmia/iris-flower-classification-python/archive/refs/heads/main.zip)
-[![GitHub repo Issues](https://img.shields.io/github/issues/ritwikdalmia/iris-flower-classification-python?style=flat&logo=github&logoColor=red&label=Issues)](https://github.com/ritwikdalmia/iris-flower-classification-python/issues)&#160;
-[![GitHub repo PRs](https://img.shields.io/github/issues-pr/ritwikdalmia/iris-flower-classification-python?style=flat&logo=github&logoColor=orange&label=PRs)](https://github.com/ritwikdalmia/iris-flower-classification-python/pulls)&#160;
-[![GitHub repo Merged PRs](https://img.shields.io/github/issues-search/ritwikdalmia/iris-flower-classification-python?style=flat&logo=github&logoColor=green&label=Merged%20PRs&query=is%3Amerged)](https://github.com/ritwikdalmia/iris-flower-classification-python/pulls?q=is%3Apr+is%3Amerged)&#160;
+[![GitHub repo watchers](https://img.shields.io/github/watchers/ritwikdalmia/letsgrowmore-data-science?style=flat&logo=github&logoColor=whitesmoke&label=Watchers)](https://github.com/ritwikdalmia/letsgrowmore-data-science/watchers)&#160;
+[![GitHub repo size](https://img.shields.io/github/repo-size/ritwikdalmia/letsgrowmore-data-science?style=flat&logo=github&logoColor=whitesmoke&label=Repo%20Size)](https://github.com/ritwikdalmia/letsgrowmore-data-science/archive/refs/heads/main.zip)
+[![GitHub repo Issues](https://img.shields.io/github/issues/ritwikdalmia/letsgrowmore-data-science?style=flat&logo=github&logoColor=red&label=Issues)](https://github.com/ritwikdalmia/letsgrowmore-data-science/issues)&#160;
+[![GitHub repo PRs](https://img.shields.io/github/issues-pr/ritwikdalmia/letsgrowmore-data-science?style=flat&logo=github&logoColor=orange&label=PRs)](https://github.com/ritwikdalmia/letsgrowmore-data-science/pulls)&#160;
+[![GitHub repo Merged PRs](https://img.shields.io/github/issues-search/ritwikdalmia/letsgrowmore-data-science?style=flat&logo=github&logoColor=green&label=Merged%20PRs&query=is%3Amerged)](https://github.com/ritwikdalmia/letsgrowmore-data-science/pulls?q=is%3Apr+is%3Amerged)&#160;
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)&#160;
 
 
